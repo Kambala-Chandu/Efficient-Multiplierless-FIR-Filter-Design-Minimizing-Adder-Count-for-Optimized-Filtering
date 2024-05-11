@@ -1,0 +1,2 @@
+# Efficient-Multiplierless-FIR-Filter-Design-Minimizing-Adder-Count-for-Optimized-Filtering
+This project develops a multiplier-less FIR filter for signal processing. It employs the Multiple Constant Multiplication (MCM) method and adder architectures with shift operations to reduce hardware complexity and power consumption. By optimizing adder blocks and shifts, we aim to design an efficient filter maintaining desired characteristics.
